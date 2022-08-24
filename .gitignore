@@ -1,0 +1,5 @@
+# remove the dirty Mac OS file
+.DS_Store
+
+# cache
+__pycache__
